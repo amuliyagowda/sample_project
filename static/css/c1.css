@@ -1,0 +1,34 @@
+html
+{
+	scroll-behavior: smooth;
+}
+body
+{
+	background-image: linear-gradient(orange,white,green);
+	text-align: center;
+	font-family: "comic sans ms",sans-serif;
+}
+#nav-links>a:hover
+{
+	border-bottom: 2px solid white;
+}
+h2
+{
+	background-image: linear-gradient(black,darkslategrey);
+	color: white;
+	padding: 5px 20px;
+	width: 400px;
+	margin: 30px auto;
+	border-radius: 50px 0px 50px 0px;
+	box-shadow: 0 0 10px white;
+}
+table
+{
+	width:100%;
+}
+img
+{
+	box-shadow: 0 0 10px white;
+	border-radius: 20px;
+	padding: 5px;
+}
